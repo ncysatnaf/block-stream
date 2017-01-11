@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "oppressor": "^0.0.1",
+    "readable": "^1.1.3"
+  }
+}
